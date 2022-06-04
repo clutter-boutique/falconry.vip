@@ -1,0 +1,19 @@
+{
+    "name": "falconry.vip",
+    "version": "1.0.0",
+    "description": "falconry.vip auth bits",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/clutter-boutique/falconry.vip.git"
+    },
+    "author": "the@clutter.boutique",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/clutter-boutique/falconry.vip/issues"
+    },
+    "homepage": "https://github.com/clutter-boutique/falconry.vip#readme",
+    "dependencies": {
+        "oauth-1.0a": "^2.2.6"
+    }
+}
